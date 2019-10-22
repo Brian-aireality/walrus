@@ -1,0 +1,7 @@
+#walrus-showing {
+  display: none;
+  user-select: none;
+}
+#walrus-hidden {
+  user-select: none;
+}
